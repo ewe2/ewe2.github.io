@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'github-markdown'
+gem 'github-linguist'
+gem 'escape_utils'
+gem 'email_reply_parser'
+gem 'sanitize'
+gem 'rinku'
