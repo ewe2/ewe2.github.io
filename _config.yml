@@ -1,3 +1,5 @@
+markdown: kramdown
+
 gems:
 - jekyll-mentions
 - jemoji
